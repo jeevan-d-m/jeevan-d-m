@@ -1,16 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<h3 align="left">My name is JEEVAN D M and I'm a Tech Enthusiast from Mysore, India.</h3>
+<h3 align="center">My name is JEEVAN D M and I'm a Tech Enthusiast from Mysore, India.</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif"  />
 </div>
 
