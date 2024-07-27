@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">My name is JEEVAN D M and I'm a Tech Enthusiast from Mysore, India.</p>
+<h3 align="center">My name is JEEVAN D M and I'm a Tech Enthusiast from Mysore, India.</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 ###
 
@@ -53,6 +53,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+
+###
+<h2 align="center">Languages and Tools</h2>
+
 
 ###
 
