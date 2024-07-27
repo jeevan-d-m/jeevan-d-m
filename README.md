@@ -1,30 +1,30 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h3 align="center">My name is JEEVAN D M and I'm a Tech Enthusiast from Mysore, India.</h3>
+<h3 align="left">My name is JEEVAN D M and I'm a Tech Enthusiast from Mysore, India.</h3>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif"  />
 </div>
 
 ###
 
-<p align="center">📚 I am currently in the Final year of my Bachelor of Engineering in CSE<br>🎯 Reach me at <a>jeevanappu479@gmail.com</a><br>🎲  Checkout my Portfolio https://jeevan-d-m.vercel.app/</p>
+<p align="left">📚 I am currently in the Final year of my Bachelor of Engineering in CSE<br>🎯 Reach me at jeevanappu479@gmail.com<br>🎲  Checkout my Portfolio https://jeevan-d-m.vercel.app/</p>
 
 ###
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -55,12 +55,12 @@
 </div>
 
 ###
-<h2 align="center">Contact Me</h2>
+<h2 align="left">Contact Me</h2>
 
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/jeevan-d-m-b619a5228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
