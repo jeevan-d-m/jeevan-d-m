@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">📚 I am currently in the Final year of my Bachelor of Engineering in CSE<br>🎯 Reach me at [a relative link] jeevanappu479@gmail.com<br>🎲  Checkout my Portfolio https://jeevan-d-m.vercel.app/</p>
+<p align="center">📚 I am currently in the Final year of my Bachelor of Engineering in CSE<br>🎯 Reach me at <a>jeevanappu479@gmail.com</a><br>🎲  Checkout my Portfolio https://jeevan-d-m.vercel.app/</p>
 
 ###
 
